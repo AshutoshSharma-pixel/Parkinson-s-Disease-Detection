@@ -79,3 +79,5 @@ The SVM model achieved **high accuracy** on the test set, demonstrating its effe
 **Ashutosh Sharma**  
 [LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-79557728a/) • [GitHub](https://github.com/AshutoshSharma-pixel)
 
+**Krish Naik**
+[Linkedin](https://www.linkedin.com/in/krish-naik-6900ab204/) • [GitHub](https://github.com/Krissh2609)
